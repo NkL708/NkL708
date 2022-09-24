@@ -22,7 +22,7 @@
 ![Django](icons/django.png) **& Django REST Framework**
 ![Angular](icons/angular.png) **Angular**
 
-## Additional skills
+## Additional tools
 ![Git](icons/git.png) **Git**
 ![Docker](icons/docker.png) **Docker**
 ![Linux](icons/linux.png)
