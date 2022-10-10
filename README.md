@@ -32,4 +32,3 @@
 ## Contact me
 [![Telegram](icons/telegram.png)](https://t.me/NkL322) [Telegram](https://t.me/NkL322)
 ![Discord](icons/discord.png) **NkL#9590**
-[![VK](icons/vk.png)](https://vk.com/nkl322) [VK](https://vk.com/nkl322)
